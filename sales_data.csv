@@ -1,0 +1,11 @@
+Sale ID,Sale Date,Customer,Region - Address,Region - City,Region - State,Region - Country,Region - Postal Code,Sale Cost
+201,2023-10-15,Deepak Rajan,456 Anna Salai,Chennai,TN,India,600002,1100.0
+202,2023-11-05,Priya Krishnan,789 T Nagar,Chennai,TN,India,600017,1500.0
+203,2023-11-10,Rajesh Kumar,123 Velachery,Chennai,TN,India,600042,1300.0
+204,2023-11-15,Meena Devi,567 Mylapore,Chennai,TN,India,600004,1600.0
+205,2023-11-20,Karthik Subramanian,890 Adyar,Chennai,TN,India,600020,1800.0
+206,2023-11-25,Anjali Raman,234 Guindy,Chennai,TN,India,600032,1400.0
+207,2023-11-30,Suresh Babu,678 Kodambakkam,Chennai,TN,India,600024,1200.0
+208,2023-12-10,Geetha Murthy,901 Nungambakkam,Chennai,TN,India,600034,1000.0
+209,2023-12-20,Prakash Singh,345 Velan Nagar,Chennai,TN,India,600045,900.0
+210,2023-12-30,Sangeeta Patel,789 Kilpauk,Chennai,TN,India,600010,1200.0
